@@ -192,7 +192,7 @@ db.getCollection('consultas').update(
 
 
 
-![updateDocument](C:\Users\marin\Desktop\Reprograma\Semana12\updateDocument.gif)
+![updateDocument](https://user-images.githubusercontent.com/82849390/127581457-5ea58f0a-d109-45af-8c5a-36274792a58b.gif)
 
 ### 
 
