@@ -206,7 +206,7 @@ db.getCollection('consultas').remove({'acnh.goal':'make up artist'});
 
 
 
-![deleteDocument](C:\Users\marin\Desktop\Reprograma\Semana12\deleteDocument.gif)
+![deleteDocument](https://user-images.githubusercontent.com/82849390/127581551-95ac65f8-d3a2-474c-8a31-2059dcc10654.gif)
 
 
 
@@ -220,7 +220,7 @@ db.getCollection('consultas').find({},("acnh.birthday":1,"_id":0))
 
 
 
-![projection](C:\Users\marin\Desktop\Reprograma\Semana12\projection.gif)
+![projection](https://user-images.githubusercontent.com/82849390/127581584-56fdb759-ea25-4d10-8992-b55786d34b78.gif)
 
 
 
@@ -236,7 +236,7 @@ db.getCollection('consultas').find({},("acnh.birthday":1,"_id":0))
 
 db.getCollection('consultas').find({ "personality.relationship" : /.*along with jock.*/})
 
-![Igualdade](C:\Users\marin\Desktop\Reprograma\Semana12\Igualdade.gif)
+![Igualdade](https://user-images.githubusercontent.com/82849390/127581562-82578933-9b2c-4a72-abbb-13207590bc57.gif)
 
 
 
@@ -253,7 +253,7 @@ db.getCollection('consultas').find({"personality.personality":"cranky",
 
 
 
-<img src="C:\Users\marin\Desktop\Reprograma\Semana12\gte.gif" alt="gte" style="zoom: 67%;" />
+![gte](https://user-images.githubusercontent.com/82849390/127581570-94746186-a27b-421d-9b1f-d607d99c9e85.gif)
 
 
 
@@ -265,7 +265,7 @@ db.getCollection('consultas').find({"personality.personality":"cranky",
 
 db.getCollection('consultas').find().skip(2)
 
-![skip](C:\Users\marin\Desktop\Reprograma\Semana12\skip.gif)
+![skip](https://user-images.githubusercontent.com/82849390/127581589-66c3a328-0eec-43b2-87b4-562cce78352b.gif)
 
 
 
@@ -275,7 +275,7 @@ db.getCollection('consultas').find({}).limit(2)
 
 
 
-![limitDocument](C:\Users\marin\Desktop\Reprograma\Semana12\limitDocument.gif)
+![limitDocument](https://user-images.githubusercontent.com/82849390/127581578-6886e884-19b5-40cc-982e-46954749a88b.gif)
 
 ## comandos:
 
@@ -283,4 +283,5 @@ db.getCollection('consultas').find().sort({"acnh.name":1})
 
 
 
-![sortDocument](C:\Users\marin\Desktop\Reprograma\Semana12\sortDocument.gif)
+![sortDocument](https://user-images.githubusercontent.com/82849390/127581591-f0869b72-0519-419a-8cce-22a4767e2134.gif)
+
